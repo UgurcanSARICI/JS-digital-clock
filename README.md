@@ -17,7 +17,7 @@ Project aims to create a digital clock
 
 ## Problem Statement
 
-- You have received the task of making a weather app using the API.
+- You have received the task of make an application that displays the digital clock
 <hr>
 
 
